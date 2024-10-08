@@ -43,8 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Continue.cs" />
+    <Compile Include="Do_while.cs" />
+    <Compile Include="For_loop.cs" />
+    <Compile Include="Goto_statement.cs" />
     <Compile Include="If_else.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Switch_statement.cs" />
+    <Compile Include="While_loop.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
